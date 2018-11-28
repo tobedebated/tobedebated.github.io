@@ -1,0 +1,105 @@
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  normal;
+	font-weight: 100;
+	src: url("../../fonts/59987404c69e56546cbe9bca_n1.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  italic;
+	font-weight: 100;
+	src: url("../../fonts/59987404c69e56546cbe9bca_i1.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  normal;
+	font-weight: 300;
+	src: url("../../fonts/59987404c69e56546cbe9bca_n3.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  italic;
+	font-weight: 300;
+	src: url("../../fonts/59987404c69e56546cbe9bca_i3.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  normal;
+	font-weight: 400;
+	src: url("../../fonts/59987404c69e56546cbe9bca_n4.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  italic;
+	font-weight: 400;
+	src: url("../../fonts/59987404c69e56546cbe9bca_i4.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  normal;
+	font-weight: 500;
+	src: url("../../fonts/59987404c69e56546cbe9bca_n5.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  italic;
+	font-weight: 500;
+	src: url("../../fonts/59987404c69e56546cbe9bca_i5.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  normal;
+	font-weight: 600;
+	src: url("../../fonts/59987404c69e56546cbe9bca_n6.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  italic;
+	font-weight: 600;
+	src: url("../../fonts/59987404c69e56546cbe9bca_i6.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  normal;
+	font-weight: 700;
+	src: url("../../fonts/59987404c69e56546cbe9bca_n7.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  italic;
+	font-weight: 700;
+	src: url("../../fonts/59987404c69e56546cbe9bca_i7.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  normal;
+	font-weight: 900;
+	src: url("../../fonts/59987404c69e56546cbe9bca_n9.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4543';
+	font-style:  italic;
+	font-weight: 900;
+	src: url("../../fonts/59987404c69e56546cbe9bca_i9.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_4789';
+	font-style:  normal;
+	font-weight: 700;
+	src: url("../../fonts/59b119b45f3fe71b89323bbf_n7.woff") format('woff')
+}
